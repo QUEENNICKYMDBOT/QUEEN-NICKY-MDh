@@ -14,4 +14,4 @@
 
 * [`▸ Kind Alpha`](https://github.com/kindalphaofficial)
 * [`▸ Mr Hansamala`](https://github.com/mrhansamala)
-* [`▸ Xeon`](https://github.com/DGXeon)
+* [`▸ Xeon`])
